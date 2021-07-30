@@ -1,18 +1,18 @@
-<h1> Olá ! Aqui Quem Fala  é o Deivison Nogueira </h1>
+<h1> 𝙃𝙞 ! 𝘿𝙚𝙞𝙫𝙞𝙨𝙤𝙣 𝙉𝙤𝙜𝙪𝙚𝙞𝙧𝙖 𝙞𝙨 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙝𝙚𝙧𝙚 </h1>
 
 <div>  
-  <h5> 🎓| Sou Estudante De ADS </h5>
-  <h5>  📚|Estou Estudando Java e seu Framework Spring Boot </h5>
-  <h5>  ❤️| Sou Apaixanado Pelos Dois Lados da Promagramação  </h5>
+  <h5> 🎓| 𝙄 𝙖𝙢 𝙖 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙤𝙛 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙖𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 </h5>
+  <h5>  📚|𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜 𝙖 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙅𝙖𝙫𝙖 𝙖𝙣𝙙 𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩 </h5>
+  <h5>  ❤️| 𝙅𝙪𝙣𝙞𝙤𝙧 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧  </h5>
 </div>
        
 
 <div>
-   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Deivisonnogueira01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisonnogueira01&layout=compact&langs_count=7&theme=dark"/>
-</div>
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Deivisonnogueira01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 
   
   <div style="display: inline_block" align="left"><br>
+           <h2>𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 & 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:</h2>
   
    <img align="center" alt="Deivison-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
@@ -33,7 +33,7 @@
   <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
   
 <h2>
-  𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
+   𝙈𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨
   <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
@@ -50,7 +50,7 @@
  
   
   
-  <h2>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 </h2>
+  
 
 <br>
 
