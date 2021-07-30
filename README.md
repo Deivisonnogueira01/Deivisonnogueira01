@@ -1,9 +1,9 @@
 <h1> Olá ! Aqui Quem Fala  é o Deivison Nogueira </h1>
 
 <div>  
-  <h5> Sou Estudante De ADS </h5>
-  <h5> Estou Estudando Java e seu Framework Spring Boot </h5>
-  <h5>  Sou Apaixanado Pelos Dois Lados da Promagramação  </h5>
+  <h5> 🎓| Sou Estudante De ADS </h5>
+  <h5>  📚|Estou Estudando Java e seu Framework Spring Boot </h5>
+  <h5>  ❤️| Sou Apaixanado Pelos Dois Lados da Promagramação  </h5>
 </div>
        
 
@@ -15,15 +15,20 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Deivison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Deivison-My" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+   <img align="center" alt="Deivison-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+  <img align="center" alt="Deivison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Deivison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Deivison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Deivison-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+   <img align="center" alt="Deivison-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  
+  <img align="center" alt="Deivison-My" height="50" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">       
+  
   
   
  
