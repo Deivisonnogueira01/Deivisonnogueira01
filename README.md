@@ -12,17 +12,12 @@
  
   
   <div style="display: inline_block" align="left"><br>
-           <h2>𝙡𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 & 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:</h2>
+           <h2>SKILLS:</h2>
   
-   <img align="center" alt="Deivison-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  
-  <img align="center" alt="Deivison-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  
-  <img align="center" alt="Deivison-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-    
-  <img align="center" alt="Deivison-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-
-  
+![JAVA](https://img.shields.io/badge/Java-e00000?style=for-the-badge&logo=java&logoColor=white)
+![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-003399?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   </div>
   
   ##  
@@ -51,7 +46,7 @@
 <br>
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/Deivisonnogueira01">Deivison Nogueira</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 30/07/2021 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 04/01/2022 </p>
   
 </p>
 
