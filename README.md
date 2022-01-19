@@ -1,26 +1,43 @@
-<h1> 𝙃𝙞 ! 𝘿𝙚𝙞𝙫𝙞𝙨𝙤𝙣 𝙉𝙤𝙜𝙪𝙚𝙞𝙧𝙖 𝙞𝙨 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙝𝙚𝙧𝙚 </h1>
+<h2>𝙃𝙞 ! 𝘿𝙚𝙞𝙫𝙞𝙨𝙤𝙣 𝙉𝙤𝙜𝙪𝙚𝙞𝙧𝙖 𝙞𝙨 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙝𝙚𝙧𝙚 👋</h2>
 
-<div>  
-  <h5> 🎓| 𝙄 𝙖𝙢 𝙖 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙤𝙛 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙖𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 </h5>
-  <h5>  📚|𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙞𝙣𝙜 𝙖 𝙥𝙧𝙤𝙟𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙅𝙖𝙫𝙖 𝙖𝙣𝙙 𝙎𝙥𝙧𝙞𝙣𝙜 𝘽𝙤𝙤𝙩 </h5>
-  <h5>  ❤️| 𝙅𝙪𝙣𝙞𝙤𝙧 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧  </h5>
-</div>
-       
+<div style="display: inline_block">
+    <a href="https://github.com/deivisonnogueira01">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Deivisonnogueira01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisonnogueira01&layout=compact&theme=dark" />
+    </a>
+</div>    
 
 <div>
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Deivisonnogueira01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
+  <h3>About me</h3>
   
+  - 👨‍💻 Software developer
+
+  - 👨‍🎓 Systems analysis and development student at IFMS - TL
+
+  - 🎯 Interest: Java, Spring Boot, API, Micro-services, Angular, AWS e Docker.
+    
+  - 📌 Professional experience with: Java 11,jpa, maven, servlet, jsf, JDBC, H2, MySql, Postgresql, git, e jboss.
+    
+</div>
+
+<div>
+  
+ 
   <div style="display: inline_block" align="left"><br>
            <h2>SKILLS:</h2>
-  
-![JAVA](https://img.shields.io/badge/Java-e00000?style=for-the-badge&logo=java&logoColor=white)
-![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-003399?style=for-the-badge&logo=mysql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  <div>
+    <img margin-right="20" align="center" alt="D-java" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+    <img margin-right="20" align="center" alt="D-spring" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img margin-right="20" align="center" alt="D-git" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img margin-right="20" align="center" alt="D-mysql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img margin-right="20" align="center" alt="D-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img margin-right="20" align="center" alt="D-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img margin-right="20" align="center" alt="D-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </div>
+    
+ </div>
+    
   
-  ##  
   <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
   
 <h2>
@@ -46,7 +63,7 @@
 <br>
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/Deivisonnogueira01">Deivison Nogueira</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 04/01/2022 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 18/01/2022 </p>
   
 </p>
 
@@ -54,5 +71,5 @@
   
 </div>
        
-##
+
   
