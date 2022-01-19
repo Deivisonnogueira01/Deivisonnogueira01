@@ -16,7 +16,7 @@
 
   - 🎯 Interest: Java, Spring Boot, API, Micro-services, Angular, AWS e Docker.
     
-  - 📌 Professional experience with: Java 11,jpa, maven, servlet, jsf, JDBC, H2, MySql, Postgresql, git, e jboss.
+  - 📌 Professional experience with: Java 11 | JPA, Maven, Servlet, JSF, JDBC, H2, MySql, Postgresql, Git, e Jboss.
     
 </div>
 
