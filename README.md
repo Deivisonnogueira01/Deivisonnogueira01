@@ -10,7 +10,7 @@
 <div>
   <h3>About me</h3>
   
-  - 👨‍💻 Software developer
+  - 👨‍💻 Software developer at Stefanini Brasil
 
   - 👨‍🎓 Systems analysis and development student at IFMS - TL
 
@@ -40,24 +40,31 @@
   
   <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
   
-<h2>
-   𝙈𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙣𝙚𝙩𝙬𝙤𝙧𝙠𝙨
-  <a target="_blank">
+
+
+    
+    
+<div>
+  <h3>My social networks
+    <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
-</h2>
-
-<div style="display: inline_block" align="left"><br> 
-
-   <a href="https://instagram.com/deivison_nogueira01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/deivison-nogueira-95961820a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+    </h3>
+    <div>
+      <a href="https://instagram.com/deivison_nogueira01" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      </a>
+      <a href="https://www.linkedin.com/in/deivison-nogueira/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a>
+      <a href="mailto:deivison.123nogueira@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      </a>
+    </div>
 </div>
+    
+    
  
- 
-  
-  
   
 
 <br>
