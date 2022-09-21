@@ -10,7 +10,7 @@
 <div>
   <h3>About me</h3>
   
-  - 👨‍💻 Software developer at Stefanini Brasil
+  - 👨‍💻 Software developer at Totvs
 
   - 👨‍🎓 Systems analysis and development student at IFMS - TL
 
