@@ -4,7 +4,7 @@
     <a href="https://github.com/deivisonnogueira01">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisonnogueira01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       
-    </a>
+ 
 </div>    
 
 <div>
@@ -70,7 +70,7 @@
 <br>
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/Deivisonnogueira01"> Deivison Nogueira</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 18/01/2022 </p>
+
   
 <br/>
   
