@@ -69,7 +69,9 @@
 
 <br>
 
-<h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/Deivisonnogueira01"> Deivison Nogueira</a></h4>
+<h1>Visitas!</h1>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{Deivisonnogueira01}/count.svg)
 
   
 <br/>
