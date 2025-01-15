@@ -10,13 +10,11 @@
 <div>
   <h3>About me</h3>
   
-  - 👨‍💻 Software developer at TOTVS
-
-  - 👨‍🎓 Systems analysis and development student at IFMS - TL
+  - 👨‍💻 Software developer at Amcom
 
   - 🎯 Interest: Java, Spring Boot, API, Micro-services, Angular, AWS e Docker.
     
-  - 📌 Professional experience with: Java 8 | JPA, Maven,JDBC, H2, MySql, Postgresql, Git, e Jboss.
+  - 📌 Professional experience with: Java 8 | JPA, Maven,JDBC, H2, MySql, Postgresql, Git, and Angular.
     
 </div>
 
